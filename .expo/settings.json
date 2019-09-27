@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "v6-bmr",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}

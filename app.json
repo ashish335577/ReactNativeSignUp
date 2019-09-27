@@ -1,0 +1,25 @@
+{
+  "name": "ReactAndroid",
+  "displayName": "OneAndroid",
+  "expo": {
+    "android":{
+      "package":"com.axlewebtech.myapp",
+      "versionCode":1,
+      "permissions":[]
+      },
+      "ios":{
+          "bundleIdentifier": "au.com.codeworkshop.food",
+        },
+      "name": "ReactAndroid",
+      "slug": "expo-template-bare",
+      "privacy": "unlisted",
+      "sdkVersion": "35.0.0",
+      "version": "1.0.1",
+      "entryPoint": "node_modules/expo/AppEntry.js",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ]
+  }
+}
